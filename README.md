@@ -26,7 +26,7 @@ Welcome to the **Docker Project Repository**! This repository contains everythin
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/anurag-chiplunkar/Oracle-docker
    cd yourrepository
    ```
 
