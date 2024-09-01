@@ -2,8 +2,6 @@
 # Docker Project Repository
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub license](https://img.shields.io/github/license/yourusername/yourrepository)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)
 
 ## 🚀 Project Overview
 
